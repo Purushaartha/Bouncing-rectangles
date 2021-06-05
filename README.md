@@ -1,1 +1,1 @@
-# Bouncing-rectangles
+# Box Class
